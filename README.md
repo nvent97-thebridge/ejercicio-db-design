@@ -19,8 +19,8 @@ Imagina una pequeña biblioteca que quiere registrar información básica sobre 
 1. Identifica las **entidades**, sus **atributos** y las **relaciones** entre ellas.
 2. Dibuja el **diagrama ER** con:
    - Entidades (rectángulos)
-   - Atributos (óvalos)
-   - Relaciones (rombos)
+   - Atributos
+   - Relaciones
    - Cardinalidad (por ejemplo: uno a muchos, muchos a muchos)
 ## Entidades sugeridas
 - **Libro**
